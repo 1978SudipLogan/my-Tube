@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-Tube/static/css/main.376cc844.css",
+    "main.js": "/my-Tube/static/js/main.a9faa817.js",
+    "static/js/453.4b27ab82.chunk.js": "/my-Tube/static/js/453.4b27ab82.chunk.js",
+    "static/media/laptop.jpg": "/my-Tube/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/my-Tube/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/my-Tube/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/my-Tube/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/my-Tube/index.html",
+    "main.376cc844.css.map": "/my-Tube/static/css/main.376cc844.css.map",
+    "main.a9faa817.js.map": "/my-Tube/static/js/main.a9faa817.js.map",
+    "453.4b27ab82.chunk.js.map": "/my-Tube/static/js/453.4b27ab82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.376cc844.css",
+    "static/js/main.a9faa817.js"
+  ]
+}
